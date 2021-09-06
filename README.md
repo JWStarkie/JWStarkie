@@ -45,3 +45,7 @@
 [Website](jwstarkie.github.io)[<img align="left" alt="Website" width="26px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />](jwstarkie.github.io)
 
 [Twitter](https://twitter.com/j0_c0des)[<img align="left" alt="Twitter" width="26px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
+
+<img align="left" alt="JWStarkie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+
+<img alt="JWStarkie's Github Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=dracula&layout=compact" />
