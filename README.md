@@ -22,6 +22,7 @@
 <img align="left" alt="PowerShell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Java" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,13 +39,13 @@
 &emsp;&emsp; 🧀 My favourite food is Macaroni Cheese! <br>
 
 📫 *How to reach me*: <br>
-[<img alt="Email" width="26px" src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" />](mailto:jo_s_m@yahoo.com)
+[<img alt="Email" width="24px" src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" />](mailto:jo_s_m@yahoo.com)
 [Email](mailto:jo_s_m@yahoo.com)
-&emsp;&emsp;[<img alt="LinkedIn" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/ms-jo-starkie/)
+&emsp;&emsp;[<img alt="LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/ms-jo-starkie/)
 [LinkedIn](https://www.linkedin.com/in/ms-jo-starkie/)
-&emsp;&emsp;[<img alt="Website" width="26px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />](jwstarkie.github.io)
+&emsp;&emsp;[<img alt="Website" width="24px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />](jwstarkie.github.io)
 [Website](jwstarkie.github.io)
-&emsp;&emsp;[<img alt="Twitter" width="26px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
+&emsp;&emsp;[<img alt="Twitter" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
 [Twitter](https://twitter.com/j0_c0des)
 
 <img align="left" alt="JWStarkie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
