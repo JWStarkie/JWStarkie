@@ -47,6 +47,8 @@
 [Website](jwstarkie.github.io)
 &emsp;&emsp;[<img alt="Twitter" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
 [Twitter](https://twitter.com/j0_c0des)
+&emsp;&emsp;[<img alt="Badges" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-verified-badge.svg" />](https://www.credly.com/users/jo-starkie/badges)
+[Credly Badge Profile](https://www.credly.com/users/jo-starkie/badges)
 
 <img align="left" alt="JWStarkie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
 
