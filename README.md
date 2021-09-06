@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1542272201-b1ca555f8505?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=868&h=300&q=80"/>
+<img src="https://images.unsplash.com/photo-1542272201-b1ca555f8505?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&h=300&q=80"/>
  
 ### Hi there 👋, I'm Jo Starkie. I'm a Cloud Solution Architect in Data & Analytics and an aspiring Software Engineer. Welcome to my GitHub page! <br>
  
