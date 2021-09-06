@@ -5,9 +5,9 @@
 [View CV Here](https://drive.google.com/file/d/1UW9VFntgKvA9bzd6EQWr2YsfxpifShOn/view) 
  
 🔭 *Currently working on*: Hands-on learning modules and automation infrastructure as code packages to accelerate the journey to learning about Microsoft's new Data Governance service, **Azure Purview**! Here's the links to the repositories if you'd like to find out more: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🚀[Purview Accelerator (PowerShell)](https://github.com/JWStarkie/PurviewAccelerator)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌠[Purview Demo (Bicep)](https://github.com/tayganr/purviewdemo)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💭[Purview Hands-on Lab](https://github.com/tayganr/purviewlab)<br>
+&emsp;&emsp; 🚀[Purview Accelerator (PowerShell)](https://github.com/JWStarkie/PurviewAccelerator)<br>
+&emsp;&emsp; 🌠[Purview Demo (Bicep)](https://github.com/tayganr/purviewdemo)<br>
+&emsp;&emsp; 💭[Purview Hands-on Lab](https://github.com/tayganr/purviewlab)<br>
  
 🌱 *Currently Learning*: Bicep and Terraform<br>
 🤔 *Looking for help*: I'm looking for people to collaborate on software projects with. I'd love more experiences working in a development team.<br>
@@ -34,17 +34,18 @@
 
 😄 *Pronouns*: She/Her <br>
 ⚡ *Fun facts*:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛠️ I love building flatpack furniture! Reach out if you'd like to chat about your recent flatpack achievements!<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧀 My favourite food is Macaroni Cheese! <br>
+&emsp;&emsp; 🛠️ I love building flatpack furniture! Reach out if you'd like to chat about your recent flatpack achievements!<br>
+&emsp;&emsp; 🧀 My favourite food is Macaroni Cheese! <br>
 
 📫 *How to reach me*: <br>
-[Email](mailto:jo_s_m@yahoo.com)[<img align="left" alt="Email" width="26px" src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" />](mailto:jo_s_m@yahoo.com)
-
-[LinkedIn](https://www.linkedin.com/in/ms-jo-starkie/)[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/ms-jo-starkie/)
-
-[Website](jwstarkie.github.io)[<img align="left" alt="Website" width="26px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />](jwstarkie.github.io)
-
-[Twitter](https://twitter.com/j0_c0des)[<img align="left" alt="Twitter" width="26px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
+[<img alt="Email" width="26px" src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" />](mailto:jo_s_m@yahoo.com)
+[Email](mailto:jo_s_m@yahoo.com)
+&emsp;&emsp;[<img alt="LinkedIn" width="26px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/ms-jo-starkie/)
+[LinkedIn](https://www.linkedin.com/in/ms-jo-starkie/)
+&emsp;&emsp;[<img alt="Website" width="26px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />](jwstarkie.github.io)
+[Website](jwstarkie.github.io)
+&emsp;&emsp;[<img alt="Twitter" width="26px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
+[Twitter](https://twitter.com/j0_c0des)
 
 <img align="left" alt="JWStarkie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 
