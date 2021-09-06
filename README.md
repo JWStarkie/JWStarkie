@@ -47,6 +47,6 @@
 &emsp;&emsp;[<img alt="Twitter" width="26px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
 [Twitter](https://twitter.com/j0_c0des)
 
-<img align="left" alt="JWStarkie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="JWStarkie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
 
-<img alt="JWStarkie's Github Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=dracula&layout=compact" />
+<img alt="JWStarkie's Github Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy&layout=compact" />
