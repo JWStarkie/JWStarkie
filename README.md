@@ -2,7 +2,7 @@
  
 ### Welcome 👋, I'm Jo Starkie. I'm a Cloud Solution Architect in Data & Analytics and an aspiring Software Engineer. Welcome to my GitHub page! <br>
  
-[View CV Here](https://drive.google.com/file/d/1UW9VFntgKvA9bzd6EQWr2YsfxpifShOn/view) 
+[View CV Here](https://drive.google.com/file/d/1W9n9I4VlAJ-JtvL0d63uf2MvLsPnyqSp/view) 
  
 🔭 *Currently working on*: Hands-on learning modules and automation infrastructure as code packages to accelerate the journey to learning about Microsoft's new Data Governance service, **Azure Purview**! Here's the links to the repositories if you'd like to find out more: <br>
 &emsp;&emsp; 🚀[Purview Accelerator (PowerShell)](https://github.com/JWStarkie/PurviewAccelerator)<br>
