@@ -39,10 +39,8 @@
 &emsp;&emsp; 🧀 My favourite food is Macaroni Cheese! <br>
 
 📫 *How to reach me*: <br>
-[<img alt="Email" width="24px" src="https://cdn.worldvectorlogo.com/logos/outlook-1.svg" />](mailto:jo_s_m@yahoo.com)
-[Email](mailto:jo_s_m@yahoo.com)
-&emsp;&emsp;[<img alt="LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/ms-jo-starkie/)
-[LinkedIn](https://www.linkedin.com/in/ms-jo-starkie/)
+&emsp;&emsp;[<img alt="LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/jostarkie/)
+[LinkedIn](https://www.linkedin.com/in/jostarkie/)
 &emsp;&emsp;[<img alt="Website" width="24px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />](jwstarkie.github.io)
 [Website](jwstarkie.github.io)
 &emsp;&emsp;[<img alt="Twitter" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
