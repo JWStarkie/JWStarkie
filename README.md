@@ -9,7 +9,7 @@
 &emsp;&emsp; 🌠[Purview Demo (Bicep)](https://github.com/tayganr/purviewdemo)<br>
 &emsp;&emsp; 💭[Purview Hands-on Lab](https://github.com/tayganr/purviewlab)<br>
  
-🌱 *Currently Learning*: Bicep and Terraform<br>
+🌱 *Currently Learning*: Bicep, Terraform and JavaScript _(refresher)_<br>
 🤔 *Looking for help*: I'm looking for people to collaborate on software projects with. I'd love more experiences working in a development team.<br>
 💬 *Ask me about*: personal and career development, assistance with an application you are working on, or just to grab a virtual coffee :coffee:. <br>
  
