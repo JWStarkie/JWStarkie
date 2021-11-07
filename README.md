@@ -1,19 +1,19 @@
  <div align="center"><img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&h=320&q=80"/></div>
  
-### Welcome 👋, I'm Jo Starkie. I'm a Cloud Solution Architect in Data & Analytics and an aspiring Software Engineer. Welcome to my GitHub page! <br>
+### Welcome 👋 , I'm Jo Starkie. I'm a Cloud Solution Architect in Data & Analytics and an aspiring Software Engineer. Welcome to my GitHub page! <br>
  
 [View CV Here](https://drive.google.com/file/d/1DotjF44FbJjv9tDs78J0DqmCZ04eNxWQ/view) 
  
-🔭 *Currently working on*: Hands-on learning modules and automation infrastructure as code packages to accelerate the journey to learning about Microsoft's new Data Governance service, **Azure Purview**! Here's the links to the repositories if you'd like to find out more: <br>
-&emsp;&emsp; 🚀[Purview Accelerator (PowerShell)](https://github.com/JWStarkie/PurviewAccelerator)<br>
-&emsp;&emsp; 🌠[Purview Demo (Bicep)](https://github.com/tayganr/purviewdemo)<br>
-&emsp;&emsp; 💭[Purview Hands-on Lab](https://github.com/tayganr/purviewlab)<br>
+🔭 &nbsp;*Currently working on*: Hands-on learning modules and automation infrastructure as code packages to accelerate the journey to learning about Microsoft's new Data Governance service, **Azure Purview**! Here's the links to the repositories if you'd like to find out more: <br>
+&emsp;&emsp; 🚀 &nbsp;[Purview Accelerator (PowerShell)](https://github.com/JWStarkie/PurviewAccelerator)<br>
+&emsp;&emsp; 🌠 &nbsp;[Purview Demo (Bicep)](https://github.com/tayganr/purviewdemo)<br>
+&emsp;&emsp; 💭 &nbsp;[Purview Hands-on Lab](https://github.com/tayganr/purviewlab)<br>
  
-🌱 *Currently Learning*: Bicep, Terraform and JavaScript _(refresher)_<br>
-🤔 *Looking for help*: I'm looking for people to collaborate on software projects with. I'd love more experiences working in a development team.<br>
-💬 *Ask me about*: personal and career development, assistance with an application you are working on, or just to grab a virtual coffee :coffee:. <br>
+🌱 &nbsp;*Currently Learning*: Bicep, Terraform and JavaScript _(refresher)_<br>
+🤔 &nbsp;*Looking for help*: I'm looking for people to collaborate on software projects with. I'd love more experiences working in a development team.<br>
+💬 &nbsp;*Ask me about*: personal and career development, assistance with an application you are working on, or just to grab a virtual coffee :coffee:. <br>
  
-💾 *Languages and Tools*:
+💾 &nbsp;*Languages and Tools*:
 
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,12 +33,12 @@
 
 <br> <br>
 
-😄 *Pronouns*: She/Her <br>
-⚡ *Fun facts*:<br>
-&emsp;&emsp; 🛠️ I love building flatpack furniture! Reach out if you'd like to chat about your recent flatpack achievements!<br>
-&emsp;&emsp; 🧀 My favourite food is Macaroni Cheese! <br>
+😄 &nbsp;*Pronouns*: She/Her <br>
+⚡ &nbsp;*Fun facts*:<br>
+&emsp;&emsp; 🛠️ &nbsp;I love building flatpack furniture! Reach out if you'd like to chat about your recent flatpack achievements!<br>
+&emsp;&emsp; 🧀 &nbsp;My favourite food is Macaroni Cheese! <br>
 
-📫 *How to reach me*: <br>
+📫 &nbsp;*How to reach me*: <br>
 &emsp;&emsp;[<img alt="LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/jostarkie/)
 [LinkedIn](https://www.linkedin.com/in/jostarkie/)
 &emsp;&emsp;[<img alt="Website" width="24px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />](jwstarkie.github.io)
