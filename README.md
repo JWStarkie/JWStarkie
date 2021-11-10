@@ -38,6 +38,8 @@
 &emsp;&emsp; 🛠️ &nbsp;I love building flatpack furniture! Reach out if you'd like to chat about your recent flatpack achievements!<br>
 &emsp;&emsp; 🧀 &nbsp;My favourite food is Macaroni Cheese! <br>
 
+ <div align="center"><img src="./wfh-animation.gif" alt="Jo's GIF" width="50%" height="50%"></div>
+
 📫 &nbsp;*How to reach me*: <br>
 &emsp;&emsp;[<img alt="LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/jostarkie/)
 [LinkedIn](https://www.linkedin.com/in/jostarkie/)
