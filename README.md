@@ -52,6 +52,6 @@
 &emsp;&emsp;[<img alt="Badges" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-verified-badge.svg" />](https://www.credly.com/users/jo-starkie/badges)
 [Credly Badge Profile](https://www.credly.com/users/jo-starkie/badges)
 
-<div align="center"><img align="left" alt="JWStarkie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy" /></div>
+<div align="center"><img alt="JWStarkie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy" /></div>
 
 <!-- <img alt="JWStarkie's Github Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy&layout=compact" /> -->
