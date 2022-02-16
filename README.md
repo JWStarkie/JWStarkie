@@ -2,7 +2,7 @@
  
 <!-- ![GitHub Views](https://komarev.com/ghpvc/?username=JWStarkie&label=Views&color=ff69b4&style=flat&label=Profile+Views) -->
 
-### Welcome 👋 , I'm Jo Starkie. I'm a Cloud Solution Architect in Data & Analytics and an aspiring Software Engineer. Welcome to my GitHub page! <br>
+### Welcome 👋 , I'm Jo Starkie. I'm a Software Engineer @ Microsoft. Welcome to my GitHub page! <br>
  
 [View CV Here](https://drive.google.com/file/d/1DotjF44FbJjv9tDs78J0DqmCZ04eNxWQ/view) || [Download CV Here](https://github.com/JWStarkie/JWStarkie/raw/main/Jo%20Starkie%20-%20CV_2021.pdf)
  
@@ -54,4 +54,4 @@
 
 <img align="left" alt="JWStarkie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy" />
 
-<img alt="JWStarkie's Github Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy&layout=compact" />
+<!-- <img alt="JWStarkie's Github Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWStarkie&count_private=true&show_icons=true&hide_border=true&theme=buefy&layout=compact" /> -->
