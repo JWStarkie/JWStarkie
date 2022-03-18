@@ -45,7 +45,7 @@
 📫 &nbsp;*How to reach me*: <br>
 &emsp;&emsp;[<img alt="LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/jostarkie/)
 [LinkedIn](https://www.linkedin.com/in/jostarkie/)
-&emsp;&emsp;[<img alt="Website" width="24px" src="https://image.flaticon.com/icons/png/512/814/814513.png" />](jwstarkie.github.io)
+&emsp;&emsp;[<img alt="Website" width="24px" src="https://cdn.worldvectorlogo.com/logos/wikipedia.svg" />](jwstarkie.github.io)
 [Website](jwstarkie.github.io)
 &emsp;&emsp;[<img alt="Twitter" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
 [Twitter](https://twitter.com/j0_c0des)
