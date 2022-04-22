@@ -2,16 +2,12 @@
  
 <!-- ![GitHub Views](https://komarev.com/ghpvc/?username=JWStarkie&label=Views&color=ff69b4&style=flat&label=Profile+Views) -->
 
-### Welcome 👋 , I'm Jo Starkie. I'm a Software Engineer @ Microsoft. Welcome to my GitHub page! <br>
+### Hey there 👋 , I'm Jo Starkie. I'm a Software Engineer @ Microsoft. Welcome to my GitHub page! <br>
  
-[View CV Here](https://drive.google.com/file/d/1DotjF44FbJjv9tDs78J0DqmCZ04eNxWQ/view) || [Download CV Here](https://github.com/JWStarkie/JWStarkie/raw/main/Jo%20Starkie%20-%20CV_2021.pdf)
+[View and download CV here](https://thestarkie.com/#/cv) 
  
-🔭 &nbsp;*Currently working on*: Hands-on learning modules and automation infrastructure as code packages to accelerate the journey to learning about Microsoft's new Data Governance service, **Azure Purview**! Here's the links to the repositories if you'd like to find out more: <br>
-&emsp;&emsp; 🚀 &nbsp;[Purview Accelerator (PowerShell)](https://github.com/JWStarkie/PurviewAccelerator)<br>
-&emsp;&emsp; 🌠 &nbsp;[Purview Demo (Bicep)](https://github.com/tayganr/purviewdemo)<br>
-&emsp;&emsp; 💭 &nbsp;[Purview Hands-on Lab](https://github.com/tayganr/purviewlab)<br>
- 
-🌱 &nbsp;*Currently Learning*: Linux Administration, Terraform and JavaScript _(refresher)_<br>
+🔭 &nbsp;*Currently working on*: Microsoft Teams App development, Streaming data integrations and Microsoft Power Automate flows<br>
+🌱 &nbsp;*Currently learning*: Teams App development, Kafka and Q query language<br>
 🤔 &nbsp;*Looking for help*: I'm looking for people to collaborate on software projects with. I'd love more experiences working in a development team.<br>
 💬 &nbsp;*Ask me about*: personal and career development, assistance with an application you are working on, or just to grab a virtual coffee :coffee:. <br>
  
@@ -45,8 +41,8 @@
 📫 &nbsp;*How to reach me*: <br>
 &emsp;&emsp;[<img alt="LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/jostarkie/)
 [LinkedIn](https://www.linkedin.com/in/jostarkie/)
-&emsp;&emsp;[<img alt="Website" width="24px" src="https://cdn.worldvectorlogo.com/logos/wikipedia.svg" />](jwstarkie.github.io)
-[Website](jwstarkie.github.io)
+&emsp;&emsp;[<img alt="Website" width="24px" src="https://cdn.worldvectorlogo.com/logos/wikipedia.svg" />](https://thestarkie.com)
+[Website](jhttps://thestarkie.com)
 &emsp;&emsp;[<img alt="Twitter" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
 [Twitter](https://twitter.com/j0_c0des)
 &emsp;&emsp;[<img alt="Badges" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-verified-badge.svg" />](https://www.credly.com/users/jo-starkie/badges)
