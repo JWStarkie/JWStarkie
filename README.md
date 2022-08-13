@@ -42,7 +42,7 @@
 &emsp;&emsp;[<img alt="LinkedIn" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg" />](https://www.linkedin.com/in/jostarkie/)
 [LinkedIn](https://www.linkedin.com/in/jostarkie/)
 &emsp;&emsp;[<img alt="Website" width="24px" src="https://cdn.worldvectorlogo.com/logos/wikipedia.svg" />](https://thestarkie.com)
-[Website](jhttps://thestarkie.com)
+[Website](https://thestarkie.com)
 &emsp;&emsp;[<img alt="Twitter" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/j0_c0des)
 [Twitter](https://twitter.com/j0_c0des)
 &emsp;&emsp;[<img alt="Badges" width="24px" src="https://cdn.worldvectorlogo.com/logos/twitter-verified-badge.svg" />](https://www.credly.com/users/jo-starkie/badges)
