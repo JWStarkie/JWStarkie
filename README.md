@@ -2,7 +2,7 @@
  
 <!-- ![GitHub Views](https://komarev.com/ghpvc/?username=JWStarkie&label=Views&color=ff69b4&style=flat&label=Profile+Views) -->
 
-### Hey there 👋 , I'm Jo Starkie. I'm a Software Engineer @ Microsoft. Welcome to my GitHub page! <br>
+### Hey there 👋 , I'm Jo Starkie. I'm a Software Engineer II @ Microsoft. Welcome to my GitHub page! <br>
  
 [View and download CV here](https://thestarkie.com/#/cv) 
  
