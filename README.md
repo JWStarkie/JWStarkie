@@ -6,8 +6,6 @@
  
 [View and download CV here](https://thestarkie.com/#/cv) 
  
-🔭 &nbsp;*Currently working on*: Microsoft Teams App development, Streaming data integrations and Microsoft Power Automate flows<br>
-🌱 &nbsp;*Currently learning*: Teams App development, Kafka and Q query language<br>
 🤔 &nbsp;*Looking for help*: I'm looking for people to collaborate on software projects with. I'd love more experiences working in a development team.<br>
 💬 &nbsp;*Ask me about*: personal and career development, assistance with an application you are working on, or just to grab a virtual coffee :coffee:. <br>
  
@@ -34,7 +32,7 @@
 😄 &nbsp;*Pronouns*: She/Her <br>
 ⚡ &nbsp;*Fun facts*:<br>
 &emsp;&emsp; 🛠️ &nbsp;I love building flatpack furniture! Reach out if you'd like to chat about your recent flatpack achievements!<br>
-&emsp;&emsp; 🧀 &nbsp;My favourite food is Macaroni Cheese! <br>
+&emsp;&emsp; ❤️‍🔥 &nbsp;I'm obsessed with all things Japan and I'm currently learning to read and speak Japanese!<br>
 
  <div align="center"><img src="./wfh-animation.gif" alt="Jo's GIF" width="50%" height="50%"></div>
 
