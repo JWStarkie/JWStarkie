@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76">
+  <defs>
+    <linearGradient id="thread">
+      <stop stop-color="#d8a1bc" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#d8a1bc" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#d8a1bc" stop-opacity="0"/>
+    </linearGradient>
+    <g id="blossom">
+      <g fill="#f3b5d1">
+        <ellipse cy="-6" rx="4" ry="6"/>
+        <ellipse cy="-6" rx="4" ry="6" transform="rotate(72)"/>
+        <ellipse cy="-6" rx="4" ry="6" transform="rotate(144)"/>
+        <ellipse cy="-6" rx="4" ry="6" transform="rotate(216)"/>
+        <ellipse cy="-6" rx="4" ry="6" transform="rotate(288)"/>
+      </g>
+      <circle r="2.5" fill="#fff1d2"/>
+    </g>
+    <g id="branch">
+      <path d="M25 57Q108 53 198 25M88 51l20-28M142 40l26 13M176 33l9-19" fill="none" stroke="#ad809b" stroke-width="2.5" stroke-linecap="round"/>
+      <use href="#blossom" transform="translate(67 52) scale(.8)"/>
+      <use href="#blossom" transform="translate(109 23)"/>
+      <use href="#blossom" transform="translate(143 40) scale(1.15)"/>
+      <use href="#blossom" transform="translate(169 53) scale(.7)"/>
+      <use href="#blossom" transform="translate(188 18) scale(.85)"/>
+      <ellipse cx="225" cy="40" rx="3" ry="6" fill="#edb4ce" transform="rotate(35 225 40)"/>
+      <ellipse cx="263" cy="53" rx="2.5" ry="5" fill="#edb4ce" opacity=".6" transform="rotate(-25 263 53)"/>
+    </g>
+  </defs>
+  <path d="M290 38H910" stroke="url(#thread)" stroke-width="1"/>
+  <use href="#branch"/>
+  <use href="#branch" transform="translate(1200 0) scale(-1 1)"/>
+  <use href="#blossom" transform="translate(600 38)"/>
+  <circle cx="570" cy="38" r="2" fill="#cfb4da"/>
+  <circle cx="630" cy="38" r="2" fill="#cfb4da"/>
+</svg>

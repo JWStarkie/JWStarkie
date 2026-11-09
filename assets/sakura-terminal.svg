@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title description">
+  <title id="title">Jo's Sakura Terminal</title>
+  <desc id="description">A midnight-purple scene with a pink terminal, cherry blossom branches, a torii gate, and a smiling pink axolotl.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1">
+      <stop stop-color="#18152f"/>
+      <stop offset="1" stop-color="#352344"/>
+    </linearGradient>
+    <linearGradient id="frame" x2="1" y2="1">
+      <stop stop-color="#f8a5ca"/>
+      <stop offset="1" stop-color="#ab9df2"/>
+    </linearGradient>
+    <radialGradient id="moon">
+      <stop stop-color="#fff5df"/>
+      <stop offset="1" stop-color="#f8c5da"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#dac6fa" stroke-opacity=".055"/>
+    </pattern>
+    <g id="flower" fill="#ffc4df">
+      <ellipse cy="-7" rx="4" ry="7"/>
+      <ellipse cy="-7" rx="4" ry="7" transform="rotate(72)"/>
+      <ellipse cy="-7" rx="4" ry="7" transform="rotate(144)"/>
+      <ellipse cy="-7" rx="4" ry="7" transform="rotate(216)"/>
+      <ellipse cy="-7" rx="4" ry="7" transform="rotate(288)"/>
+      <circle r="3" fill="#fff0bd"/>
+    </g>
+  </defs>
+  <rect width="1200" height="440" rx="24" fill="url(#sky)"/>
+  <rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="104" r="52" fill="url(#moon)"/>
+  <g fill="#e7d8ff">
+    <circle cx="760" cy="52" r="2"/><circle cx="896" cy="46" r="2"/>
+    <circle cx="1128" cy="178" r="2"/><circle cx="818" cy="175" r="2"/>
+    <path d="M869 98v12m-6-6h12M1100 55v12m-6-6h12" stroke="#e7d8ff" stroke-width="2"/>
+  </g>
+  <path d="M0 368Q180 323 360 366T720 362T1200 347V440H0Z" fill="#211c38"/>
+  <path d="M0 399Q220 357 440 401T850 393T1200 389V440H0Z" fill="#2c2342"/>
+  <g fill="#f3a5bd">
+    <path d="M866 208h14l-8 150h-14zm151 0h14l10 150h-14z"/>
+    <path d="M845 198q105 20 211 0v13q-105 19-211 0z"/>
+    <path d="M854 236h193v10H854z"/>
+    <path d="M942 211h12v31h-12z"/>
+  </g>
+  <path d="M840 192q110 19 222 0" fill="none" stroke="#fdd5df" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#a896cd" opacity=".5">
+    <path d="M1080 300h35v80h-35zm39-33h28v113h-28zm32 47h49v66h-49z"/>
+    <path d="M1088 289h4v11h-4zm42-32h4v10h-4z"/>
+  </g>
+  <g fill="#fbd1aa" opacity=".8">
+    <path d="M1089 314h7v8h-7zm0 22h7v8h-7zm39-50h7v8h-7zm0 24h7v8h-7zm37 21h7v8h-7zm17 0h7v8h-7z"/>
+  </g>
+  <rect x="58" y="58" width="696" height="318" rx="18" fill="url(#frame)"/>
+  <rect x="60" y="60" width="692" height="314" rx="16" fill="#201c35"/>
+  <path d="M76 60h660q16 0 16 16v30H60V76q0-16 16-16" fill="#392d4b"/>
+  <g>
+    <circle cx="85" cy="83" r="6" fill="#f59ebc"/>
+    <circle cx="107" cy="83" r="6" fill="#f7d79c"/>
+    <circle cx="129" cy="83" r="6" fill="#a5d9c5"/>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="160" y="88" fill="#e3cce9" font-size="13">jo@github: ~/sakura-terminal</text>
+    <text x="91" y="146" fill="#a5d9c5" font-size="16">$ whoami</text>
+    <text x="88" y="210" fill="#fff0f8" font-size="52" font-weight="700">JO STARKIE</text>
+    <text x="91" y="248" fill="#f7b2d0" font-size="18">Software engineer. Curious human.</text>
+    <text x="91" y="290" fill="#cdc0eb" font-size="15">TYPESCRIPT / C# / PYSPARK / AZURE</text>
+    <text x="91" y="337" fill="#a5d9c5" font-size="15">$ explore --with-curiosity</text>
+    <path d="M337 325h9v16h-9z" fill="#f7b2d0"/>
+  </g>
+  <g transform="translate(627 269)">
+    <path d="M26 35q46 24 48-5-17 11-27-13" fill="#c5b2ff" stroke="#e5b7df" stroke-width="2"/>
+    <ellipse cy="34" rx="28" ry="29" fill="#f0bad8"/>
+    <g fill="none" stroke="#ec8bb8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-39-14l-20-17-4-14M-44-2l-26-5-8-10M-42 12l-23 9-12-5"/>
+      <path d="M39-14l20-17 4-14M44-2l26-5 8-10M42 12l23 9 12-5"/>
+    </g>
+    <g fill="none" stroke="#ffbad9" stroke-width="3" stroke-linecap="round">
+      <path d="M-59-31l-12-1M-70-7l-6 7M-65 21l-3 10"/>
+      <path d="M59-31l12-1M70-7l6 7M65 21l3 10"/>
+    </g>
+    <ellipse rx="48" ry="35" fill="#f8d2e6"/>
+    <path d="M-24-4q6-10 12 0M12-4q6-10 12 0" fill="none" stroke="#594069" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-6 5q6 8 12 0" fill="none" stroke="#9e547f" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="-26" cy="9" rx="7" ry="4" fill="#f1a3ca"/>
+    <ellipse cx="26" cy="9" rx="7" ry="4" fill="#f1a3ca"/>
+    <path d="M-22 35l-8 9M22 35l8 9M-14 54l-5 8M14 54l5 8" stroke="#f8d2e6" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <path d="M1200 16q-98 5-147 47t-147 4m175-22q-5 39-46 65m-7-60q-43-23-76-20" fill="none" stroke="#80536f" stroke-width="9" stroke-linecap="round"/>
+  <use href="#flower" transform="translate(1165 24)"/>
+  <use href="#flower" transform="translate(1119 37) scale(1.2)"/>
+  <use href="#flower" transform="translate(1078 55)"/>
+  <use href="#flower" transform="translate(1043 73) scale(1.15)"/>
+  <use href="#flower" transform="translate(995 75) scale(.8)"/>
+  <use href="#flower" transform="translate(948 74)"/>
+  <use href="#flower" transform="translate(1034 109) scale(.85)"/>
+  <use href="#flower" transform="translate(1010 31) scale(.8)"/>
+  <g fill="#ffc4df" opacity=".85">
+    <ellipse cx="805" cy="116" rx="4" ry="8" transform="rotate(35 805 116)"/>
+    <ellipse cx="1129" cy="225" rx="4" ry="8" transform="rotate(-25 1129 225)"/>
+    <ellipse cx="803" cy="303" rx="3" ry="7" transform="rotate(50 803 303)"/>
+    <ellipse cx="951" cy="375" rx="4" ry="8" transform="rotate(70 951 375)"/>
+    <ellipse cx="1071" cy="402" rx="3" ry="7" transform="rotate(-35 1071 402)"/>
+  </g>
+  <text x="60" y="412" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#c4afdb">WELCOME TO MY LITTLE CORNER OF THE INTERNET</text>
+</svg>
