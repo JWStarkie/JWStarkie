@@ -16,7 +16,7 @@ Building Dynamics 365 Contact Center experiences, developer-facing SDKs, and rel
 [🌐 Website](https://thestarkie.com) · [💼 LinkedIn](https://www.linkedin.com/in/jostarkie/) · [📄 Request my CV](https://thestarkie.com/#/cv) · [🏅 Certifications](https://www.credly.com/users/jo-starkie/badges)
 
 **[Meet the developer](#-character-select) · [Explore my engineering](#-engineering-quest-log) · [Visit the workshop](#-the-workshop)
-· [Try a side quest](#-side-quest-the-flip-flop-café) ·**
+· [Try a side quest](#-side-quest-the-flip-flop-café)**
 
 </div>
 
